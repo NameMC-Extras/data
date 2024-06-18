@@ -1,0 +1,104 @@
+[
+    {
+        "id": "56e8ac39-5555-4768-b85b-3e37a946ccc1",
+        "user": "88e152f3-e545-4681-8cec-3e8f85175902",
+        "cape": "cfe9f033-e11b-48c3-8f1b-3b1fd1ddc886",
+        "note": null
+    },
+    {
+        "id": "20f6d544-30a5-4e43-87a0-3c2b5859c59f",
+        "user": "2ce90d65-f253-4e3c-8e4b-3d5fb1e4c927",
+        "cape": "cfe9f033-e11b-48c3-8f1b-3b1fd1ddc886",
+        "note": null
+    },
+    {
+        "id": "1f4c97c0-8223-4722-bd3c-3e2ecc93b8a7",
+        "user": "02d0b97b-b79f-4056-bb43-42f7de3fe88d",
+        "cape": "2be71502-baf1-474a-b289-c04139faa57b",
+        "note": null
+    },
+    {
+        "id": "7dce74c4-411f-4416-870a-2e2716012cc2",
+        "user": "12fb8bfb-9927-4e09-9fd9-e32e5e44f5b3",
+        "cape": "6d5f27d2-f41c-4712-84d0-b27569a9d4a1",
+        "note": "Revoked for account selling."
+    },
+    {
+        "id": "83a77575-0c7e-48b9-a7ad-0521c0148999",
+        "user": "d398fb2e-4fbf-46e7-98ee-51ea4ebc7cf2",
+        "cape": "6d5f27d2-f41c-4712-84d0-b27569a9d4a1",
+        "note": null
+    },
+    {
+        "id": "8cc46b83-40d1-4883-92fb-f9c25d141c29",
+        "user": "aaf11ef0-e29e-4ecf-950b-b078083f56b8",
+        "cape": "ec5836f6-8522-47b4-971f-13c3f73e80b1",
+        "note": null
+    },
+    {
+        "id": "a1417e47-3201-476c-b445-76d9e898e368",
+        "user": "891d59a8-e018-4030-944b-3345342a0189",
+        "cape": "d2ebe128-35e4-4f64-8058-d6543541c172",
+        "note": null
+    },
+    {
+        "id": "b93e4baf-6602-4111-9341-4e9480d66e12",
+        "user": "42643840-8882-4a0f-8d2e-f7cf48e9c347",
+        "cape": "73d7f4ce-b5db-4eca-bb41-93b4ef87532c",
+        "note": null
+    },
+    {
+        "id": "09113b44-aa43-4159-80e8-1938b3c1ab62",
+        "user": "10710270-4277-4937-9a89-bf317dd15f4d",
+        "cape": "147f2ba4-13df-47b8-9714-d6864b11cb8a",
+        "note": null
+    },
+    {
+        "id": "54c891b1-6ca8-4515-9c4e-6328ac0f84b6",
+        "user": "a6eb2491-7365-4649-a795-2f032c9919f0",
+        "cape": "f82907ac-a6eb-47ad-bdae-e7d21f673fa4",
+        "note": null
+    },
+    {
+        "id": "7b43d83d-3fa9-483a-9bde-e068b3812eb5",
+        "user": "1f08d3f3-5765-4fdb-b6ac-af4be2ea241c",
+        "cape": "f82907ac-a6eb-47ad-bdae-e7d21f673fa4",
+        "note": null
+    },
+    {
+        "id": "3be84a03-0db2-42d7-a2ef-27bbd6a4ed17",
+        "user": "3ae80695-7200-4bcc-97ff-453e1494c81d",
+        "cape": "f82907ac-a6eb-47ad-bdae-e7d21f673fa4",
+        "note": null
+    },
+    {
+        "id": "4ad9a07c-18ee-4386-83db-e40ddb490024",
+        "user": "a6eb2491-7365-4649-a795-2f032c9919f0",
+        "cape": "23eac785-3800-4752-b2b6-170515ba1b54",
+        "note": null
+    },
+    {
+        "id": "0a33aa13-45a6-4edb-a532-fcb02ed86f14",
+        "user": "2a7f7951-3694-49f5-97e1-417365177ce2",
+        "cape": "06a7f925-0a57-4a72-b656-00345bb80415",
+        "note": null
+    },
+    {
+        "id": "d5e6b2fd-edb5-456a-9822-59b549b4c88f",
+        "user": "25b54bf7-b250-4d93-8988-a73e9610a1d6",
+        "cape": "1cf7fad6-8866-42ef-8833-320dc7a6279f",
+        "note": null
+    },
+    {
+        "id": "28275983-6216-4b63-8fe1-fdf18c1f45b6",
+        "user": "fdce1893-fb69-4db3-a7f4-adc3891779b4",
+        "cape": "da079b68-6eb8-421a-aecc-2d1af4a04085",
+        "note": null
+    },
+    {
+        "id": "3b6dca75-2a7e-40e3-893d-41407df21808",
+        "user": "07a4bbac-8d56-4cee-8e06-3e44ccc31fc3",
+        "cape": "2df3fb7f-3b6d-4279-adff-a8104bf260e6",
+        "note": null
+    }
+]user_capes
