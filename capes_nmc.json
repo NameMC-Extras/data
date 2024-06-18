@@ -1,0 +1,205 @@
+[
+    {
+        "id": "298ae017a64261ad",
+        "description": "Given to a few Mojang employees since December 20, 2010.",
+        "name": "Mojang (Classic)",
+        "tester_category": "special",
+        "render_texture": "8f120319222a9f4a104e2f5cb97b2cda93199a2ee9e1585cb8d09d6f687cb761"
+    },
+    {
+        "id": "11a3dcc4d826d0a1",
+        "description": "Given to mapmakers who created maps for Realms and met special requirements.",
+        "name": "Realms Mapmaker",
+        "tester_category": "special",
+        "render_texture": "17912790ff164b93196f08ba71d0e62129304776d0f347334f8a6eae509f8a56"
+    },
+    {
+        "id": "116bacd62b233157",
+        "description": "Given to Scrolls players who earned the Weekly First Place winner badge five times, the cape was also temporarily shown to all players from December 11 to 12 in 2014 to celebrate the release of Scrolls, later during MineCon 2015, the Scrolls Minecon Open was held for Scrolls' in-game items and other prizes including the cape.",
+        "name": "Scrolls",
+        "tester_category": "special",
+        "render_texture": "3efadf6510961830f9fcc077f19b4daf286d502b5f5aafbd807c7bbffcaca245"
+    },
+    {
+        "id": "3c1a1e7e50fce5f0",
+        "description": "Given to users who purchased both Minecraft's Java Edition and Bedrock Edition before they were exclusively sold together as a bundle.",
+        "name": "Vanilla",
+        "tester_category": "common",
+        "render_texture": "f9a76537647989f9a0b6d001e320dac591c359e9e61a31f4ce11c88f207f0ad4"
+    },
+    {
+        "id": "c00df589ebea3ad6",
+        "description": "Given to Mojang employees since Mojang's rebrand in 2022, design resembles the 'Mojangs' or 'gadgets' that make up the new Mojang Studios logo.",
+        "name": "Mojang Studios",
+        "tester_category": "special",
+        "render_texture": "9e507afc56359978a3eb3e32367042b853cddd0995d17d0da995662913fb00f7"
+    },
+    {
+        "id": "5e68fa78bd9df310",
+        "description": "Given to JulianClark in return for bringing Notch the TV presenter and actor Ray Cokes.",
+        "name": "Snowman",
+        "tester_category": "custom",
+        "render_texture": "23ec737f18bfe4b547c95935fc297dd767bb84ee55bfd855144d279ac9bfd9fe"
+    },
+    {
+        "id": "7a939dc1a7ad4505",
+        "description": "Given to MrMessiah as a \"thank you\" for creating the BetterLight mod, which is responsible for some of Minecraft's lighting and grass features, the cape was discussed in 2011, however it wasn't granted until 2015.",
+        "name": "Spade",
+        "tester_category": "custom",
+        "render_texture": "2e002d5e1758e79ba51d08d92a0f3a95119f2f435ae7704916507b6c565a7da8"
+    },
+    {
+        "id": "8dd71c1ee6ec0ae4",
+        "description": "Given to bug tracker moderators on December 25, 2014, and again from May 9, 2016 onward.",
+        "name": "Mojira Moderator",
+        "tester_category": "special",
+        "render_texture": "ae677f7d98ac70a533713518416df4452fe5700365c09cf45d0d156ea9396551"
+    },
+    {
+        "id": "129a4675704fa3b8",
+        "description": "Given to translators on the Minecraft translation project at Crowdin, cancelled after Jeb saw abusive behavior from some translators.",
+        "name": "Translator",
+        "tester_category": "special",
+        "render_texture": "1bf91499701404e21bd46b0191d63239a4ef76ebde88d27e4d430ac211df681e"
+    },
+    {
+        "id": "88f1509813f4e324",
+        "description": "Given to Drullkus for recreating the Prismarine block for use in his Chisel mod rather than modifying Mojang's texture, Jeb had this cape made before reaching out to Drullkus but it had no owner, before this cape was given, a Mojang employee, KrisJelbring had it on his account but it was later removed.",
+        "name": "Prismarine",
+        "tester_category": "custom",
+        "render_texture": "d8f8d13a1adf9636a16c31d47f3ecc9bb8d8533108aa5ad2a01b13b1a0c55eac"
+    },
+    {
+        "id": "d059f1a18b159eb6",
+        "description": "Given to powup333, Craft_Lawrence and sjjklh on June 4, 2015 for playing vital roles on Chinese Crowdin Translation Project, the cape's design is identical to the Translator cape except for the pixelated Chinese flag on the under side of the cape.",
+        "name": "Translator (Chinese)",
+        "tester_category": "special",
+        "render_texture": "2262fb1d24912209490586ecae98aca8500df3eff91f2a07da37ee524e7e3cb6"
+    },
+    {
+        "id": "2a92e051c5df531a",
+        "description": "A cape given out as a code by completing a challenge on Twitch during Minecraft's 15th Anniversary.",
+        "name": "Purple Heart",
+        "tester_category": "common",
+        "render_texture": "cb40a92e32b57fd732a00fc325e7afb00a7ca74936ad50d8e860152e482cfbde"
+    },
+    {
+        "id": "86a126427a9cf1c9",
+        "description": "Given to those who claim it [at this page](https://www.minecraft.net/en-us/15th-anniversary#MC_Anniversary_Cape) before June 1st, 2024. Also known as \"The Creepy Cape\" according to other parts of the website.",
+        "name": "15th Anniversary",
+        "tester_category": "common",
+        "render_texture": "cd9d82ab17fd92022dbd4a86cde4c382a7540e117fae7b9a2853658505a80625"
+    },
+    {
+        "id": "696b6cc29946b968",
+        "description": "Given to some participants/winners of level-making competitions and Cobalt League tournaments, the elytra texture is based on the wasp enemy from Cobalt.",
+        "name": "Cobalt",
+        "tester_category": "special",
+        "render_texture": "ca35c56efe71ed290385f4ab5346a1826b546a54d519e6a3ff01efa01acce81"
+    },
+    {
+        "id": "77421d9cf72e07e9",
+        "description": "Given to dannyBstyle, a video game music composer, as Notch was a fan of his music, the account was later stolen and name changed twice.",
+        "name": "dB",
+        "tester_category": "custom",
+        "render_texture": "bcfbe84c6542a4a5c213c1cacf8979b5e913dcb4ad783a8b80e3c4a7d5c8bdac"
+    },
+    {
+        "id": "aa02d4b62762ff22",
+        "description": "Given to cheapsh0t on October 2013 for helping the Mojang team in Tokyo, the cape is identical to the Translator cape except for the Japanese flag on the under side of the cape.",
+        "name": "Translator (Japanese)",
+        "tester_category": "custom",
+        "render_texture": "ca29f5dd9e94fb1748203b92e36b66fda80750c87ebc18d6eafdb0e28cc1d05f"
+    },
+    {
+        "id": "8a6cc02cc86e43f1",
+        "description": "Given to those who migrated to a Microsoft Account from before December 18th, 2023.",
+        "name": "Migrator",
+        "tester_category": "common",
+        "render_texture": "2340c0e03dd24a11b15a8b33c2a7e9e32abb2051b2481d0ba7defd635ca7a933"
+    },
+    {
+        "id": "0e4cc75a5f8a886d",
+        "description": "Given to those who registered to attend MineCon 2013 via a redemption link.",
+        "name": "MineCon 2013",
+        "tester_category": "minecon",
+        "render_texture": "153b1a0dfcbae953cdeb6f2c2bf6bf79943239b1372780da44bcbb29273131da"
+    },
+    {
+        "id": "d3c7ac835b24eb29",
+        "description": "Given to akronman1, the lucky buyer of the 1,000,000th copy of Minecraft.",
+        "name": "Millionth Customer",
+        "tester_category": "custom",
+        "render_texture": "70efffaf86fe5bc089608d3cb297d3e276b9eb7a8f9f2fe6659c23a2d8b18edf"
+    },
+    {
+        "id": "72ee2cfcefbfc081",
+        "description": "Given to those who attended MineCon 2015 via a redemption link.",
+        "name": "MineCon 2015",
+        "tester_category": "minecon",
+        "render_texture": "b0cc08840700447322d953a02b965f1d65a13a603bf64b17c803c21446fe1635"
+    },
+    {
+        "id": "1981aad373fa9754",
+        "description": "Given to those who attended MineCon 2016 via a redemption link.",
+        "name": "MineCon 2016",
+        "tester_category": "minecon",
+        "render_texture": "e7dfea16dc83c97df01a12fabbd1216359c0cd0ea42f9999b6e97c584963e980"
+    },
+    {
+        "id": "cb5dd34bee340182",
+        "description": "Given to Mojang employees since October 7, 2015.",
+        "name": "Mojang",
+        "tester_category": "special",
+        "render_texture": "5786fe99be377dfb6858859f926c4dbc995751e91cee373468c5fbf4865e7151"
+    },
+    {
+        "id": "8c05ef3c54870d04",
+        "description": "Given to billyK_ for his persistent suggestion to add turtles into the game, later the cape was added to Mojang testing accounts for API testing.",
+        "name": "Turtle",
+        "tester_category": "custom",
+        "render_texture": "5048ea61566353397247d2b7d946034de926b997d5e66c86483dfb1e031aee95"
+    },
+    {
+        "id": "3d528060ab734868",
+        "description": "Given to LolFoxy2 originally by a Mojang employee who resolved their problems with Microsoft migration, the cape was later removed by the Mojang employee after realizing its rarity. The cape was later given to another account via social engineering.",
+        "name": "Valentine",
+        "tester_category": "custom",
+        "render_texture": "6a7cf0eb5cfe7e7c508b364e32916dfd28d164e7bf6d92c6ea7811b82451e760"
+    },
+    {
+        "id": "9349fa25c64ae935",
+        "description": "Given to those who attended MineCon 2011 automatically via username.",
+        "name": "MineCon 2011",
+        "tester_category": "minecon",
+        "render_texture": "953cac8b779fe41383e675ee2b86071a71658f2180f56fbce8aa315ea70e2ed6"
+    },
+    {
+        "id": "aab5a23c7495fc70",
+        "description": "Given to Gr8Bizzo, a Mojang employee leading the work on minecraft.net.",
+        "name": "Birthday",
+        "tester_category": "custom",
+        "render_texture": "2056f2eebd759cce93460907186ef44e9192954ae12b227d817eb4b55627a7fc"
+    },
+    {
+        "id": "e22327fef7324090",
+        "description": "Given to those who voted during the 2023 Mob Vote.",
+        "name": "Cherry Blossom",
+        "tester_category": "common",
+        "render_texture": "afd553b39358a24edfe3b8a9a939fa5fa4faa4d9a9c3d6af8eafb377fa05c2bb"
+    },
+    {
+        "id": "ebc798c3f7eca2a3",
+        "description": "Given to those who registered to attend MineCon 2012 via a redemption link.",
+        "name": "MineCon 2012",
+        "tester_category": "minecon",
+        "render_texture": "a2e8d97ec79100e90a75d369d1b3ba81273c4f82bc1b737e934eed4a854be1b6"
+    },
+    {
+        "id": "123b1c8b4352f76d",
+        "description": "Given to etanaratsastaja, a Mojang employee while doing testing on Mojang's API. The design is similar to a Sniffer. It was uploaded to Mojang's staging texture server on October 10, 2023 and uploaded to Mojang's production texture server 7 days later on October 17, 2023.",
+        "name": "Test",
+        "tester_category": "apitesting",
+        "render_texture": "7a93b1867eb599f2b76e6e1c30a0ddb530e6f4c7bce6515d1ba72b206df30e39"
+    }
+]
