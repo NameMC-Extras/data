@@ -3,104 +3,104 @@
         "id": "f82907ac-a6eb-47ad-bdae-e7d21f673fa4",
         "name": "Blue Postmaster",
         "description": "For working on support e-mail.",
-        "image_src": "https://raw.githubusercontent.com/bribes/assets/main/capes/optifine/bluepostmaster.png",
-        "image_render": "https://raw.githubusercontent.com/bribes/assets/main/capes/optifine/renders/bluepostmaster.png",
+        "image_src": "https://raw.githubusercontent.com/NameMC-Extras/assets/main/capes/optifine/bluepostmaster.png",
+        "image_render": "https://raw.githubusercontent.com/NameMC-Extras/assets/main/capes/optifine/renders/bluepostmaster.png",
         "category": "optifine"
     },
     {
         "id": "d2ebe128-35e4-4f64-8058-d6543541c172",
         "name": "Code",
         "description": "For moderating & managing the OptiFine Discord. Also for creating the OptiFine Discord bot.",
-        "image_src": "https://raw.githubusercontent.com/bribes/assets/main/capes/optifine/code.png",
-        "image_render": "https://raw.githubusercontent.com/bribes/assets/main/capes/optifine/renders/code.png",
+        "image_src": "https://raw.githubusercontent.com/NameMC-Extras/assets/main/capes/optifine/code.png",
+        "image_render": "https://raw.githubusercontent.com/NameMC-Extras/assets/main/capes/optifine/renders/code.png",
         "category": "optifine"
     },
     {
         "id": "ec5836f6-8522-47b4-971f-13c3f73e80b1",
         "name": "Graph",
         "description": "For compiling graphs and statistics about OptiFine releases.",
-        "image_src": "https://raw.githubusercontent.com/bribes/assets/main/capes/optifine/graph.png",
-        "image_render": "https://raw.githubusercontent.com/bribes/assets/main/capes/optifine/renders/graph.png",
+        "image_src": "https://raw.githubusercontent.com/NameMC-Extras/assets/main/capes/optifine/graph.png",
+        "image_render": "https://raw.githubusercontent.com/NameMC-Extras/assets/main/capes/optifine/renders/graph.png",
         "category": "optifine"
     },
     {
         "id": "2be71502-baf1-474a-b289-c04139faa57b",
         "name": "Gray BDcraft",
         "description": "For testing HD capes.",
-        "image_src": "https://raw.githubusercontent.com/bribes/assets/main/capes/optifine/graybdcraft.png",
-        "image_render": "https://raw.githubusercontent.com/bribes/assets/main/capes/optifine/renders/graybdcraft.png",
+        "image_src": "https://raw.githubusercontent.com/NameMC-Extras/assets/main/capes/optifine/graybdcraft.png",
+        "image_render": "https://raw.githubusercontent.com/NameMC-Extras/assets/main/capes/optifine/renders/graybdcraft.png",
         "category": "optifine"
     },
     {
         "id": "6d5f27d2-f41c-4712-84d0-b27569a9d4a1",
         "name": "Orange Heart",
         "description": "For moderating the OptiFine Discord. Has since been revoked for being sold.",
-        "image_src": "https://raw.githubusercontent.com/bribes/assets/main/capes/optifine/orangeheart.png",
-        "image_render": "https://raw.githubusercontent.com/bribes/assets/main/capes/optifine/renders/orangeheart.png",
+        "image_src": "https://raw.githubusercontent.com/NameMC-Extras/assets/main/capes/optifine/orangeheart.png",
+        "image_render": "https://raw.githubusercontent.com/NameMC-Extras/assets/main/capes/optifine/renders/orangeheart.png",
         "category": "optifine"
     },
     {
         "id": "73d7f4ce-b5db-4eca-bb41-93b4ef87532c",
         "name": "Snow",
         "description": "For moderating & managing the OptiFine Discord.",
-        "image_src": "https://raw.githubusercontent.com/bribes/assets/main/capes/optifine/snow.png",
-        "image_render": "https://raw.githubusercontent.com/bribes/assets/main/capes/optifine/renders/snow.png",
+        "image_src": "https://raw.githubusercontent.com/NameMC-Extras/assets/main/capes/optifine/snow.png",
+        "image_render": "https://raw.githubusercontent.com/NameMC-Extras/assets/main/capes/optifine/renders/snow.png",
         "category": "optifine"
     },
     {
         "id": "147f2ba4-13df-47b8-9714-d6864b11cb8a",
         "name": "Purple Postmaster",
         "description": "For working on support e-mail.",
-        "image_src": "https://raw.githubusercontent.com/bribes/assets/main/capes/optifine/purplepostmaster.png",
-        "image_render": "https://raw.githubusercontent.com/bribes/assets/main/capes/optifine/renders/purplepostmaster.png",
+        "image_src": "https://raw.githubusercontent.com/NameMC-Extras/assets/main/capes/optifine/purplepostmaster.png",
+        "image_render": "https://raw.githubusercontent.com/NameMC-Extras/assets/main/capes/optifine/renders/purplepostmaster.png",
         "category": "optifine"
     },
     {
         "id": "23eac785-3800-4752-b2b6-170515ba1b54",
         "name": "Rainbow",
         "description": "For being a prominent member of the OptiFine community.",
-        "image_src": "https://raw.githubusercontent.com/bribes/assets/main/capes/optifine/rainbow.png",
-        "image_render": "https://raw.githubusercontent.com/bribes/assets/main/capes/optifine/renders/rainbow.png",
+        "image_src": "https://raw.githubusercontent.com/NameMC-Extras/assets/main/capes/optifine/rainbow.png",
+        "image_render": "https://raw.githubusercontent.com/NameMC-Extras/assets/main/capes/optifine/renders/rainbow.png",
         "category": "optifine"
     },
     {
         "id": "06a7f925-0a57-4a72-b656-00345bb80415",
         "name": "Transgender",
         "description": "For moderation of OptiFine Discord.",
-        "image_src": "https://raw.githubusercontent.com/bribes/assets/main/capes/optifine/transgender.png",
-        "image_render": "https://raw.githubusercontent.com/bribes/assets/main/capes/optifine/renders/transgender.png",
+        "image_src": "https://raw.githubusercontent.com/NameMC-Extras/assets/main/capes/optifine/transgender.png",
+        "image_render": "https://raw.githubusercontent.com/NameMC-Extras/assets/main/capes/optifine/renders/transgender.png",
         "category": "optifine"
     },
     {
         "id": "1cf7fad6-8866-42ef-8833-320dc7a6279f",
         "name": "Lego",
         "description": "For moderating & managing the OptiFine Discord.",
-        "image_src": "https://raw.githubusercontent.com/bribes/assets/main/capes/optifine/lego.png",
-        "image_render": "https://raw.githubusercontent.com/bribes/assets/main/capes/optifine/renders/lego.png",
+        "image_src": "https://raw.githubusercontent.com/NameMC-Extras/assets/main/capes/optifine/lego.png",
+        "image_render": "https://raw.githubusercontent.com/NameMC-Extras/assets/main/capes/optifine/renders/lego.png",
         "category": "optifine"
     },
     {
         "id": "da079b68-6eb8-421a-aecc-2d1af4a04085",
         "name": "Orange BDcraft",
         "description": "For unknown reasons.",
-        "image_src": "https://raw.githubusercontent.com/bribes/assets/main/capes/optifine/orangebdcraft.png",
-        "image_render": "https://raw.githubusercontent.com/bribes/assets/main/capes/optifine/renders/orangebdcraft.png",
+        "image_src": "https://raw.githubusercontent.com/NameMC-Extras/assets/main/capes/optifine/orangebdcraft.png",
+        "image_render": "https://raw.githubusercontent.com/NameMC-Extras/assets/main/capes/optifine/renders/orangebdcraft.png",
         "category": "optifine"
     },
     {
         "id": "2df3fb7f-3b6d-4279-adff-a8104bf260e6",
         "name": "Lion",
         "description": "Owned by the developer of OptiFine.",
-        "image_src": "https://raw.githubusercontent.com/bribes/assets/main/capes/optifine/lion.png",
-        "image_render": "https://raw.githubusercontent.com/bribes/assets/main/capes/optifine/renders/lion.png",
+        "image_src": "https://raw.githubusercontent.com/NameMC-Extras/assets/main/capes/optifine/lion.png",
+        "image_render": "https://raw.githubusercontent.com/NameMC-Extras/assets/main/capes/optifine/renders/lion.png",
         "category": "optifine"
     },
     {
         "id": "cfe9f033-e11b-48c3-8f1b-3b1fd1ddc886",
         "name": "Developer",
         "description": "Given to developers of NameMC Extras.",
-        "image_src": "https://raw.githubusercontent.com/bribes/assets/main/capes/nmce/developer.png",
-        "image_render": "https://raw.githubusercontent.com/bribes/assets/main/capes/nmce/renders/developer.png",
+        "image_src": "https://raw.githubusercontent.com/NameMC-Extras/assets/main/capes/nmce/developer.png",
+        "image_render": "https://raw.githubusercontent.com/NameMC-Extras/assets/main/capes/nmce/renders/developer.png",
         "category": "extras"
     }
 ]
