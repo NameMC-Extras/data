@@ -3,63 +3,63 @@
         "id": "ce76654e-f23f-428e-894a-ee797d65209b",
         "name": "xinabox",
         "description": "For being epic and creating the \"OG Alert\" series.",
-        "image": "https://cesolgpkhjyzprrejqzn.supabase.co/storage/v1/object/public/badges/xinabox.png",
+        "image": "https://raw.githubusercontent.com/bribes/assets/main/badges/xinabox.png",
         "obtainable": false
     },
     {
         "id": "7de192e8-9760-4657-9698-b97c710c8b45",
         "name": "MCBYT",
         "description": "For being an epic YouTube man.",
-        "image": "https://cesolgpkhjyzprrejqzn.supabase.co/storage/v1/object/public/badges/mcbyt.png",
+        "image": "https://raw.githubusercontent.com/bribes/assets/main/badges/mcbyt.png",
         "obtainable": false
     },
     {
         "id": "4647df64-5c40-4645-b080-2e7a2eef9798",
         "name": "Early Supporter",
         "description": "For supporting NameMC Extras in its early ages when it was known as \"NameMC+\".",
-        "image": "https://cesolgpkhjyzprrejqzn.supabase.co/storage/v1/object/public/badges/early_supporter.png",
+        "image": "https://raw.githubusercontent.com/bribes/assets/main/badges/early_supporter.png",
         "obtainable": false
     },
     {
         "id": "aa78c66c-9f61-4b11-9a48-63640a9e5679",
         "name": "Booster",
         "description": "For server boosting our official Discord server.",
-        "image": "https://cesolgpkhjyzprrejqzn.supabase.co/storage/v1/object/public/badges/booster.png",
+        "image": "https://raw.githubusercontent.com/bribes/assets/main/badges/booster.png",
         "obtainable": true
     },
     {
         "id": "1126b6a7-e27b-4050-b39a-e2cd8ee61966",
         "name": "Artist",
         "description": "For contributing tremendous art skills to NameMC Extras.",
-        "image": "https://cesolgpkhjyzprrejqzn.supabase.co/storage/v1/object/public/badges/artist.png",
+        "image": "https://raw.githubusercontent.com/bribes/assets/main/badges/artist.png",
         "obtainable": true
     },
     {
         "id": "23d943de-0f67-4f44-b41d-71853c3784d0",
         "name": "Donator",
         "description": "For donators of NameMC Extras.",
-        "image": "https://cesolgpkhjyzprrejqzn.supabase.co/storage/v1/object/public/badges/donator.png",
+        "image": "https://raw.githubusercontent.com/bribes/assets/main/badges/donator.png",
         "obtainable": true
     },
     {
         "id": "8b12f3b9-ad9e-474f-8026-c9842b34319e",
         "name": "Lucky",
         "description": "For being lucky.",
-        "image": "https://cesolgpkhjyzprrejqzn.supabase.co/storage/v1/object/public/badges/lucky.png",
+        "image": "https://raw.githubusercontent.com/bribes/assets/main/badges/lucky.png",
         "obtainable": true
     },
     {
         "id": "41cf7498-5f00-403b-853f-51f7f663bcb4",
         "name": "Swag",
         "description": "For cool people.",
-        "image": "https://cesolgpkhjyzprrejqzn.supabase.co/storage/v1/object/public/badges/swag.png",
+        "image": "https://raw.githubusercontent.com/bribes/assets/main/badges/swag.png",
         "obtainable": true
     },
     {
         "id": "90b092bb-a2d4-4afe-97b7-3e881d198ebb",
         "name": "Developer",
         "description": "For developers of NameMC Extras.",
-        "image": "https://cesolgpkhjyzprrejqzn.supabase.co/storage/v1/object/public/badges/developer.png",
+        "image": "https://raw.githubusercontent.com/bribes/assets/main/badges/developer.png",
         "obtainable": true
     }
 ]
