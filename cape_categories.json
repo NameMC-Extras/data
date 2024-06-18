@@ -1,0 +1,12 @@
+[
+    {
+        "id": "optifine",
+        "name": "OptiFine",
+        "hidden": false
+    },
+    {
+        "id": "extras",
+        "name": "NameMC Extras",
+        "hidden": false
+    }
+]
