@@ -1,0 +1,47 @@
+[
+    {
+        "id": "common",
+        "name": "Common",
+        "position": 1
+    },
+    {
+        "id": "aprilfools",
+        "name": "April Fools",
+        "position": 6
+    },
+    {
+        "id": "special",
+        "name": "Rare",
+        "position": 3
+    },
+    {
+        "id": "minecon",
+        "name": "MineCon",
+        "position": 2
+    },
+    {
+        "id": "custom",
+        "name": "Unique",
+        "position": 4
+    },
+    {
+        "id": "temporary",
+        "name": "Previous or Temporary",
+        "position": 5
+    },
+    {
+        "id": "apitesting",
+        "name": "API Testing",
+        "position": 7
+    },
+    {
+        "id": "bedrock",
+        "name": "Bedrock Exclusive",
+        "position": 8
+    },
+    {
+        "id": "console",
+        "name": "Legacy Consoles",
+        "position": 9
+    }
+]
