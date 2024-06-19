@@ -77,6 +77,13 @@
         "render_texture": "2262fb1d24912209490586ecae98aca8500df3eff91f2a07da37ee524e7e3cb6"
     },
     {
+        "id": "6dfe9599aa000ffc",
+        "description": "A cape given out as a code by completing a challenge on TikTok during Minecraft's 15th Anniversary.",
+        "name": "Follower's",
+        "tester_category": "common",
+        "render_texture": "569b7f2a1d00d26f30efe3f9ab9ac817b1e6d35f4f3cfb0324ef2d328223d350"
+    },
+    {
         "id": "2a92e051c5df531a",
         "description": "A cape given out as a code by completing a challenge on Twitch during Minecraft's 15th Anniversary.",
         "name": "Purple Heart",
