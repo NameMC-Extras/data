@@ -32,7 +32,7 @@
         "user": "d398fb2e-4fbf-46e7-98ee-51ea4ebc7cf2",
         "cape": "6d5f27d2-f41c-4712-84d0-b27569a9d4a1",
         "equipped": false,
-        "note": null
+        "note": "Revoked for account selling."
     },
     {
         "id": "8cc46b83-40d1-4883-92fb-f9c25d141c29",
@@ -67,7 +67,7 @@
         "user": "a6eb2491-7365-4649-a795-2f032c9919f0",
         "cape": "f82907ac-a6eb-47ad-bdae-e7d21f673fa4",
         "equipped": false,
-        "note": null
+        "note": "Moved cape to main account IrisJS"
     },
     {
         "id": "7b43d83d-3fa9-483a-9bde-e068b3812eb5",
@@ -81,14 +81,14 @@
         "user": "3ae80695-7200-4bcc-97ff-453e1494c81d",
         "cape": "f82907ac-a6eb-47ad-bdae-e7d21f673fa4",
         "equipped": false,
-        "note": null
+        "note": "Temporarily given the cape by a friend."
     },
     {
         "id": "4ad9a07c-18ee-4386-83db-e40ddb490024",
         "user": "a6eb2491-7365-4649-a795-2f032c9919f0",
         "cape": "23eac785-3800-4752-b2b6-170515ba1b54",
         "equipped": false,
-        "note": null
+        "note": "Temporarily used this design instead of Postmaster."
     },
     {
         "id": "0a33aa13-45a6-4edb-a532-fcb02ed86f14",
@@ -116,6 +116,6 @@
         "user": "07a4bbac-8d56-4cee-8e06-3e44ccc31fc3",
         "cape": "2df3fb7f-3b6d-4279-adff-a8104bf260e6",
         "equipped": false,
-        "note": null
+        "note": "Temporarily used this design while testing HD OptiFine capes."
     }
 ]
