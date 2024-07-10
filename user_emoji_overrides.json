@@ -13,5 +13,10 @@
         "uuid": "0dd649c1-40c7-47f5-a839-0b98eaefedf2",
         "image_src": "https://s.namemc.com/img/emoji/twitter/1f921.svg",
         "tooltip_text": "\"Hi! My name is Legendarisk and I'm a big poopy face!\""
+    },
+    {
+        "uuid": "b876ec32-e396-476b-a115-8438d83c67d4",
+        "image_src": "https://s.namemc.com/img/emoji/twitter/1f451.svg",
+        "tooltip_text": "TECHNOBLADE NEVER DIES"
     }
 ]
