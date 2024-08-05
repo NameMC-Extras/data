@@ -208,5 +208,12 @@
         "name": "Test",
         "tester_category": "apitesting",
         "render_texture": "7a93b1867eb599f2b76e6e1c30a0ddb530e6f4c7bce6515d1ba72b206df30e39"
+    },
+    {
+        "id": "b169480d76031eb0",
+        "description": "Given to players who completed the 15 challenges in the MC Championship Mini-games Event server.",
+        "name": "MCC 15th Year",
+        "tester_category": "common",
+        "render_texture": "56c35628fe1c4d59dd52561a3d03bfa4e1a76d397c8b9c476c2f77cb6aebb1df"
     }
 ]
