@@ -220,7 +220,7 @@
         "id": "910674a2d3964724",
         "description": "This cape is a reward for validating your ticket in person at Minecraft Experience: Villager Rescue.",
         "name": "Minecraft Experience",
-        "tester_category": "rare",
+        "tester_category": "special",
         "render_texture": "7658c5025c77cfac7574aab3af94a46a8886e3b7722a895255fbf22ab8652434"
     }
 ]
