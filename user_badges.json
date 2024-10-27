@@ -285,11 +285,6 @@
         "badge": "41cf7498-5f00-403b-853f-51f7f663bcb4"
     },
     {
-        "id": "7f719fa6-82e5-4219-aeaa-635abb77156e",
-        "user": "1cf1a286-acbd-4810-8137-0fcd7a0969f2",
-        "badge": "8b12f3b9-ad9e-474f-8026-c9842b34319e"
-    },
-    {
         "id": "fdedd8ae-cf38-4501-92fc-eb2009e7bf2a",
         "user": "a29fd57f-f380-42a8-b744-c6e3e7b3852d",
         "badge": "8b12f3b9-ad9e-474f-8026-c9842b34319e"
@@ -1053,10 +1048,5 @@
         "id": "ff9f65e3-c830-4e3a-a9ea-b31b200112a5",
         "user": "131240c3-b2ff-452d-8df8-082f9a3f60c1",
         "badge": "aa78c66c-9f61-4b11-9a48-63640a9e5679"
-    },
-    {
-        "id": "eae710b1-e90f-4e0f-adca-e2b8cf32cbfa",
-        "user": "1cf1a286-acbd-4810-8137-0fcd7a0969f2",
-        "badge": "41cf7498-5f00-403b-853f-51f7f663bcb4"
     }
 ]
