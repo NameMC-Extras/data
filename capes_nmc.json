@@ -222,5 +222,12 @@
         "name": "Minecraft Experience",
         "tester_category": "special",
         "render_texture": "7658c5025c77cfac7574aab3af94a46a8886e3b7722a895255fbf22ab8652434"
+    },
+    {
+        "id": "d40975b63f693972",
+        "description": "This cape is a reward for completing 5 daily quests in the Eerie Mojang Office Party Event server.",
+        "name": "Mojang Office",
+        "tester_category": "common",
+        "render_texture": "5c29410057e32abec02d870ecb52ec25fb45ea81e785a7854ae8429d7236ca26"
     }
 ]
