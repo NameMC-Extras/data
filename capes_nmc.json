@@ -78,14 +78,14 @@
     },
     {
         "id": "6dfe9599aa000ffc",
-        "description": "A cape given out as a code by completing a challenge on TikTok during Minecraft's 15th Anniversary.",
+        "description": "This cape was given out as a code by completing a challenge on TikTok during Minecraft's 15th Anniversary.",
         "name": "Follower's",
         "tester_category": "common",
         "render_texture": "569b7f2a1d00d26f30efe3f9ab9ac817b1e6d35f4f3cfb0324ef2d328223d350"
     },
     {
         "id": "2a92e051c5df531a",
-        "description": "A cape given out as a code by completing a challenge on Twitch during Minecraft's 15th Anniversary.",
+        "description": "This cape was given out as a code by completing a challenge on Twitch during Minecraft's 15th Anniversary.",
         "name": "Purple Heart",
         "tester_category": "common",
         "render_texture": "cb40a92e32b57fd732a00fc325e7afb00a7ca74936ad50d8e860152e482cfbde"
@@ -229,5 +229,19 @@
         "name": "Mojang Office",
         "tester_category": "common",
         "render_texture": "5c29410057e32abec02d870ecb52ec25fb45ea81e785a7854ae8429d7236ca26"
+    },
+    {
+        "id": "503984806ca427ce",
+        "description": "This cape was given out as a code by completing a challenge on TikTok during the Minecraft Movie event.",
+        "name": "TikTok Menace",
+        "tester_category": "common",
+        "render_texture": "b1fc59bc3de3cda3ed4d99c3d65b721c57cec900ece350cbda6f451099e078e7"
+    },
+    {
+        "id": "84839bea9bed5123",
+        "description": "This cape was given out as a code by completing a challenge on Twitch during the Minecraft Movie event.",
+        "name": "Twitch Home",
+        "tester_category": "common",
+        "render_texture": "4b5de481e1b41f51c678155ff965c7e9526c7c641aaaf97a501916c7cb101c4b"
     }
 ]
