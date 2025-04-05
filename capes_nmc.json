@@ -211,7 +211,7 @@
     },
     {
         "id": "b169480d76031eb0",
-        "description": "Given to players who completed the 15 challenges in the MC Championship Mini-games Event server.",
+        "description": "Given to players who completed all 15 challenges in the MC Championship Mini-games Event server.",
         "name": "MCC 15th Year",
         "tester_category": "common",
         "render_texture": "56c35628fe1c4d59dd52561a3d03bfa4e1a76d397c8b9c476c2f77cb6aebb1df"
@@ -225,7 +225,7 @@
     },
     {
         "id": "d40975b63f693972",
-        "description": "This cape is a reward for completing 5 daily quests in the Eerie Mojang Office Party Event server.",
+        "description": "This cape is a reward for completing all 5 quests in the Eerie Mojang Office Party Event server.",
         "name": "Mojang Office",
         "tester_category": "common",
         "render_texture": "5c29410057e32abec02d870ecb52ec25fb45ea81e785a7854ae8429d7236ca26"
@@ -243,5 +243,12 @@
         "name": "Twitch Home",
         "tester_category": "common",
         "render_texture": "1de21419009db483900da6298a1e6cbf9f1bc1523a0dcdc16263fab150693edd"
+    },
+    {
+        "id": "764e20cd7392bc24",
+        "description": "This cape is a reward for completing all 6 quests in the A Minecraft Movie Live Event server.",
+        "name": "Yearn",
+        "tester_category": "common",
+        "render_texture": "308b32a9e303155a0b4262f9e5483ad4a22e3412e84fe8385a0bdd73dc41fa89"
     }
 ]
