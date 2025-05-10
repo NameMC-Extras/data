@@ -246,9 +246,30 @@
     },
     {
         "id": "764e20cd7392bc24",
-        "description": "This cape is a reward for completing all 6 quests in the A Minecraft Movie Live Event server.",
+        "description": "This cape was a reward for completing all 6 quests in the A Minecraft Movie Live Event server.",
         "name": "Yearn",
         "tester_category": "common",
         "render_texture": "308b32a9e303155a0b4262f9e5483ad4a22e3412e84fe8385a0bdd73dc41fa89"
+    },
+    {
+        "id": "6851f20cfe35bd03",
+        "description": "This cape is a reward for logging into Minecraft Bedrock between May 6, 2025 - 2026.",
+        "name": "Common",
+        "tester_category": "common",
+        "render_texture": "308b32a9e303155a0b4262f9e5483ad4a22e3412e84fe8385a0bdd73dc41fa89"
+    },
+    {
+        "id": "62db1a06cba0d59a",
+        "description": "This cape is given to all Bedrock players.",
+        "name": "Pan",
+        "tester_category": "common",
+        "render_texture": "28de4a81688ad18b49e735a273e086c18f1e3966956123ccb574034c06f5d336"
+    },
+    {
+        "id": "71c819d9c37cb61c",
+        "description": "This cape was a reward for MINECON Live 2019.",
+        "name": "Founder's",
+        "tester_category": "common",
+        "render_texture": "99aba02ef05ec6aa4d42db8ee43796d6cd50e4b2954ab29f0caeb85f96bf52a1"
     }
 ]
