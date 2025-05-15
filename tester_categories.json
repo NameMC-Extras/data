@@ -5,19 +5,19 @@
         "position": 1
     },
     {
-        "id": "aprilfools",
-        "name": "April Fools",
-        "position": 7
+        "id": "physical",
+        "name": "Physical Events",
+        "position": 2
+    },
+    {
+        "id": "virtual",
+        "name": "Virtual Events",
+        "position": 3
     },
     {
         "id": "special",
         "name": "Rare",
         "position": 4
-    },
-    {
-        "id": "physical",
-        "name": "Physical Events",
-        "position": 2
     },
     {
         "id": "custom",
@@ -30,23 +30,28 @@
         "position": 6
     },
     {
-        "id": "apitesting",
-        "name": "API Testing",
+        "id": "bedrock",
+        "name": "Bedrock Edition Exclusive",
+        "position": 7
+    },
+    {
+        "id": "aprilfools",
+        "name": "April Fools",
         "position": 8
     },
     {
-        "id": "virtual",
-        "name": "Virtual Events",
-        "position": 3
+        "id": "apitesting",
+        "name": "API Testing",
+        "position": 9
     },
     {
         "id": "console",
         "name": "Legacy Consoles",
-        "position": 9
+        "position": 10
     },
     {
         "id": "unused",
         "name": "Unused",
-        "position": 10
+        "position": 11
     }
 ]
