@@ -80,21 +80,21 @@
         "id": "6dfe9599aa000ffc",
         "description": "This cape was given out as a code by completing a challenge on TikTok during Minecraft's 15th Anniversary.",
         "name": "Follower's",
-        "tester_category": "common",
+        "tester_category": "virtual",
         "render_texture": "569b7f2a1d00d26f30efe3f9ab9ac817b1e6d35f4f3cfb0324ef2d328223d350"
     },
     {
         "id": "2a92e051c5df531a",
         "description": "This cape was given out as a code by completing a challenge on Twitch during Minecraft's 15th Anniversary.",
         "name": "Purple Heart",
-        "tester_category": "common",
+        "tester_category": "virtual",
         "render_texture": "cb40a92e32b57fd732a00fc325e7afb00a7ca74936ad50d8e860152e482cfbde"
     },
     {
         "id": "86a126427a9cf1c9",
         "description": "Given to those who claim it [at this page](https://www.minecraft.net/en-us/15th-anniversary#MC_Anniversary_Cape) before June 1st, 2024. Also known as \"The Creepy Cape\" according to other parts of the website.",
         "name": "15th Anniversary",
-        "tester_category": "common",
+        "tester_category": "virtual",
         "render_texture": "cd9d82ab17fd92022dbd4a86cde4c382a7540e117fae7b9a2853658505a80625"
     },
     {
@@ -129,7 +129,7 @@
         "id": "0e4cc75a5f8a886d",
         "description": "Given to those who registered to attend MineCon 2013 via a redemption link.",
         "name": "MineCon 2013",
-        "tester_category": "minecon",
+        "tester_category": "physical",
         "render_texture": "153b1a0dfcbae953cdeb6f2c2bf6bf79943239b1372780da44bcbb29273131da"
     },
     {
@@ -143,14 +143,14 @@
         "id": "72ee2cfcefbfc081",
         "description": "Given to those who attended MineCon 2015 via a redemption link.",
         "name": "MineCon 2015",
-        "tester_category": "minecon",
+        "tester_category": "physical",
         "render_texture": "b0cc08840700447322d953a02b965f1d65a13a603bf64b17c803c21446fe1635"
     },
     {
         "id": "1981aad373fa9754",
         "description": "Given to those who attended MineCon 2016 via a redemption link.",
         "name": "MineCon 2016",
-        "tester_category": "minecon",
+        "tester_category": "physical",
         "render_texture": "e7dfea16dc83c97df01a12fabbd1216359c0cd0ea42f9999b6e97c584963e980"
     },
     {
@@ -178,7 +178,7 @@
         "id": "9349fa25c64ae935",
         "description": "Given to those who attended MineCon 2011 automatically via username.",
         "name": "MineCon 2011",
-        "tester_category": "minecon",
+        "tester_category": "physical",
         "render_texture": "953cac8b779fe41383e675ee2b86071a71658f2180f56fbce8aa315ea70e2ed6"
     },
     {
@@ -192,14 +192,14 @@
         "id": "e22327fef7324090",
         "description": "Given to those who voted during the 2023 Mob Vote.",
         "name": "Cherry Blossom",
-        "tester_category": "common",
+        "tester_category": "virtual",
         "render_texture": "afd553b39358a24edfe3b8a9a939fa5fa4faa4d9a9c3d6af8eafb377fa05c2bb"
     },
     {
         "id": "ebc798c3f7eca2a3",
         "description": "Given to those who registered to attend MineCon 2012 via a redemption link.",
         "name": "MineCon 2012",
-        "tester_category": "minecon",
+        "tester_category": "physical",
         "render_texture": "a2e8d97ec79100e90a75d369d1b3ba81273c4f82bc1b737e934eed4a854be1b6"
     },
     {
@@ -213,42 +213,42 @@
         "id": "b169480d76031eb0",
         "description": "Given to players who completed all 15 challenges in the MC Championship Mini-games Event server.",
         "name": "MCC 15th Year",
-        "tester_category": "common",
+        "tester_category": "virtual",
         "render_texture": "56c35628fe1c4d59dd52561a3d03bfa4e1a76d397c8b9c476c2f77cb6aebb1df"
     },
     {
         "id": "910674a2d3964724",
         "description": "This cape is a reward for validating your ticket in person at Minecraft Experience: Villager Rescue.",
         "name": "Minecraft Experience",
-        "tester_category": "special",
+        "tester_category": "physical",
         "render_texture": "7658c5025c77cfac7574aab3af94a46a8886e3b7722a895255fbf22ab8652434"
     },
     {
         "id": "d40975b63f693972",
         "description": "This cape is a reward for completing all 5 quests in the Eerie Mojang Office Party Event server.",
         "name": "Mojang Office",
-        "tester_category": "common",
+        "tester_category": "virtual",
         "render_texture": "5c29410057e32abec02d870ecb52ec25fb45ea81e785a7854ae8429d7236ca26"
     },
     {
         "id": "d89779ee546fe4f0",
         "description": "This cape was given out as a code by completing a challenge on TikTok during the Minecraft Movie event.",
         "name": "TikTok Menace",
-        "tester_category": "common",
+        "tester_category": "virtual",
         "render_texture": "dbc21e222528e30dc88445314f7be6ff12d3aeebc3c192054fba7e3b3f8c77b1"
     },
     {
         "id": "afc3ba389452cbb1",
         "description": "This cape was given out as a code by completing a challenge on Twitch during the Minecraft Movie event.",
         "name": "Twitch Home",
-        "tester_category": "common",
+        "tester_category": "virtual",
         "render_texture": "1de21419009db483900da6298a1e6cbf9f1bc1523a0dcdc16263fab150693edd"
     },
     {
         "id": "764e20cd7392bc24",
         "description": "This cape was a reward for completing all 6 quests in the A Minecraft Movie Live Event server.",
         "name": "Yearn",
-        "tester_category": "common",
+        "tester_category": "virtual",
         "render_texture": "308b32a9e303155a0b4262f9e5483ad4a22e3412e84fe8385a0bdd73dc41fa89"
     },
     {
@@ -267,9 +267,9 @@
     },
     {
         "id": "71c819d9c37cb61c",
-        "description": "This cape was given out as a reward during MINECON Live 2019.",
+        "description": "This cape was available on the Minecraft Marketplace to commemorate MINECON Live 2019.",
         "name": "Founder's",
-        "tester_category": "common",
+        "tester_category": "virtual",
         "render_texture": "99aba02ef05ec6aa4d42db8ee43796d6cd50e4b2954ab29f0caeb85f96bf52a1"
     }
 ]
