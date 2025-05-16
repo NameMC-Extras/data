@@ -2,7 +2,7 @@
     {
         "id": "optifine",
         "name": "OptiFine",
-        "hidden": false
+        "hidden": true
     },
     {
         "id": "extras",
