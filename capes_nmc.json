@@ -271,5 +271,12 @@
         "name": "Founder's",
         "tester_category": "virtual",
         "render_texture": "99aba02ef05ec6aa4d42db8ee43796d6cd50e4b2954ab29f0caeb85f96bf52a1"
+    },
+    {
+        "id": "b78918fa2b4d6189",
+        "description": "This cape was randomly given to iSxckk and was designed many years ago for Oxeye Studios (the game studio who made Cobalt).",
+        "name": "Oxeye",
+        "tester_category": "unique",
+        "render_texture": "7706b5f5fc90329691e59277dcc66ba20572219fa8e5da472afd5235fad12cc8"
     }
 ]
