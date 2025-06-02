@@ -1,10 +1,6 @@
 [
   {
-    "id": "announcement-ex-2",
-    "message": "Hello World [test](https://example.com)"
-  },
-  {
-    "id": "announcement-ex-1",
-    "message": "foo bar"
+    "id": "2025-06-v1-announcement",
+    "message": "🔥 NameMC Extras v1 is here! Check out all the new features on [GitHub](https://github.com/NameMC-Extras/NameMC-Extras)!"
   }
 ]
