@@ -1,7 +1,7 @@
 [
   {
     "id": "announcement-ex-2",
-    "message": "Hello World"
+    "message": "Hello World [test](https://example.com)"
   },
   {
     "id": "announcement-ex-1",
