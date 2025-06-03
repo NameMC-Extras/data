@@ -1,6 +1,10 @@
 [
   {
-    "id": "2025-06-v1-announcement",
+    "id": "2025-06-03-announcement",
+    "message": "🔔 If you seem to be missing any features (Ex. Badges), please check your NameMC Extras Settings!"
+  },
+  {
+    "id": "2025-06-01-announcement",
     "message": "🔥 NameMC Extras is out of beta! Check out all the new features on [GitHub](https://github.com/NameMC-Extras/NameMC-Extras)!"
   }
 ]
