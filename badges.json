@@ -61,5 +61,12 @@
         "description": "For developers of NameMC Extras.",
         "image": "https://raw.githubusercontent.com/NameMC-Extras/assets/main/badges/developer.png",
         "obtainable": true
+    },
+    {
+        "id": "a7e1e632-152c-4810-bc3d-1ef5939b1d8c",
+        "name": "Stargazer",
+        "description": "For starring the NameMC Extras GitHub repository.",
+        "image": "https://raw.githubusercontent.com/NameMC-Extras/assets/main/badges/stargazer.png",
+        "obtainable": true
     }
 ]
