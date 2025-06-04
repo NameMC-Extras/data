@@ -68,5 +68,12 @@
         "description": "For starring the NameMC Extras GitHub repository.",
         "image": "https://raw.githubusercontent.com/NameMC-Extras/assets/main/badges/stargazer.png",
         "obtainable": true
+    },
+    {
+        "id": "32f7162e-7a13-45ae-aefe-3f1bb725cfc0",
+        "name": "Tuao",
+        "description": "For being an epic YouTuber supporting NameMC Extras and capes.me.",
+        "image": "https://raw.githubusercontent.com/NameMC-Extras/assets/main/badges/tuao.png",
+        "obtainable": false
     }
 ]
