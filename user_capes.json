@@ -117,5 +117,12 @@
         "cape": "2df3fb7f-3b6d-4279-adff-a8104bf260e6",
         "equipped": false,
         "note": "Temporarily used this design while testing HD OptiFine capes."
+    },
+    {
+        "id": "3d19b4b9-c3c5-4c56-a113-c62c245ae371",
+        "user": "7cee0ed0-ccc9-473a-b910-e1c6d979709c",
+        "cape": "cfe9f033-e11b-48c3-8f1b-3b1fd1ddc886",
+        "equipped": false,
+        "note": null
     }
 ]
