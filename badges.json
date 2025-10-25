@@ -23,7 +23,7 @@
     {
         "id": "aa78c66c-9f61-4b11-9a48-63640a9e5679",
         "name": "Booster",
-        "description": "For server boosting our official Discord server. (.gg/fanclub) DM @faav your MC username on Discord to claim.",
+        "description": "For server boosting our official Discord server. (.gg/fanclub) DM @faav2 your MC username on Discord to claim.",
         "image": "https://assets.faav.top/badges/booster.png",
         "obtainable": true
     },
@@ -65,7 +65,7 @@
     {
         "id": "a7e1e632-152c-4810-bc3d-1ef5939b1d8c",
         "name": "Stargazer",
-        "description": "For starring the NameMC Extras GitHub repository. DM @faav your MC username on Discord to claim.",
+        "description": "For starring the NameMC Extras GitHub repository. DM @faav2 your MC username on Discord to claim.",
         "image": "https://assets.faav.top/badges/stargazer.png",
         "obtainable": true
     },
