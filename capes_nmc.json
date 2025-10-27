@@ -278,5 +278,12 @@
         "name": "Oxeye",
         "tester_category": "custom",
         "render_texture": "7706b5f5fc90329691e59277dcc66ba20572219fa8e5da472afd5235fad12cc8"
+    },
+    {
+        "id": "93fa88bcdcdc9a36",
+        "description": "This cape was the final reward of a special three-part community challenge known as \"The Copper Cape Quest\", which began on September 30, 2025.",
+        "name": "Copper",
+        "tester_category": "common",
+        "render_texture": "5e6f3193e74cd16cdd6637d9bae5484e3a37ff2a14c2d157c659a07810b1bdca"
     }
 ]
