@@ -285,5 +285,19 @@
         "name": "Copper",
         "tester_category": "common",
         "render_texture": "5e6f3193e74cd16cdd6637d9bae5484e3a37ff2a14c2d157c659a07810b1bdca"
+    },
+    {
+        "id": "f249694c066c160c",
+        "description": "This cape was randomly given to SupaCookiebrat and was designed many years ago.",
+        "name": "Document",
+        "tester_category": "custom",
+        "render_texture": "fdcf48f01ec480d1d7cbec27f7ddce48c9da2be6724641109444dae58d4cd013"
+    },
+    {
+        "id": "07973351ab910408",
+        "description": "This cape was a reward for defeating 5 mobs with a spear in Minecraft Bedrock Edition.",
+        "name": "Zombie Horse",
+        "tester_category": "common",
+        "render_texture": "a3f6e4f14801f3ea55e3d95b9b4ef3b5e8802d947f669de93d6ec4b9354a436b"
     }
 ]
