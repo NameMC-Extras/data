@@ -75,5 +75,12 @@
         "description": "For being an epic YouTuber supporting NameMC Extras and capes.me.",
         "image": "https://assets.faav.top/badges/tuao.png",
         "obtainable": false
+    },
+    {
+        "id": "66708b31-bfd5-4b94-ab3c-a3d87a2df4e4",
+        "name": "2026 Screenshot Participant",
+        "description": "For participating in the 2026 Fanclub screenshot.",
+        "image": "https://assets.faav.top/badges/camera.png",
+        "obtainable": false
     }
 ]
