@@ -60,7 +60,7 @@
         "category": "bedrock"
     },
     {
-        "id": "aab48288f2067b9adf650ed68556652e9c34f4338b9d61ae5a35065f8c1c9413",
+        "id": "13c8779683fd31ad49adc1e68df3f285fabe71d53f8b4b0ec5259085e37179fb",
         "name": "Xbox 360 Microsoft",
         "elytra": false,
         "category": "console"
@@ -74,6 +74,12 @@
     {
         "id": "938155dd83118a3993a22579649fab313cdb06073029c3839843d58fad06ebb2",
         "name": "Xbox 360 1st Birthday",
+        "elytra": false,
+        "category": "console"
+    },
+    {
+        "id": "c2e0cb7bfff287e2abbde2a4667af034e90d4b103decfc93ed990dbdf3a2ebe1",
+        "name": "4J Studios",
         "elytra": false,
         "category": "console"
     },
