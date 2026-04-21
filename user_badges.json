@@ -1386,7 +1386,7 @@
     },
     {
         "id": "b044384e-847d-4c2d-8174-7fa9be41829a",
-        "user": "64b5e42c-d087-42b4-b69e-43537384b2fc",
+        "user": "8e04c554-9939-47bc-8bcb-ace998cb2e5e",
         "badge": "a7e1e632-152c-4810-bc3d-1ef5939b1d8c"
     },
     {
@@ -2397,6 +2397,11 @@
     {
         "id": "2dce7e3d-e9e0-4b65-9f8b-dc6883978580",
         "user": "5acd4a94-ffdc-4b9b-b599-e20dfcab66fc",
+        "badge": "a7e1e632-152c-4810-bc3d-1ef5939b1d8c"
+    },
+    {
+        "id": "59b6092d-afa7-424f-aad6-4f717432972f",
+        "user": "84f1822a-00ca-4e1e-8a94-0033ca07a1bc",
         "badge": "a7e1e632-152c-4810-bc3d-1ef5939b1d8c"
     }
 ]
