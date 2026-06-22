@@ -299,5 +299,26 @@
         "name": "Zombie Horse",
         "tester_category": "common",
         "render_texture": "a3f6e4f14801f3ea55e3d95b9b4ef3b5e8802d947f669de93d6ec4b9354a436b"
+    },
+    {
+        "id": "ff3b90ad33a937ef",
+        "description": "This cape is a reward for validating your ticket in person at Minecraft Experience: Moonlight Trail.",
+        "name": "Moonlight Trail",
+        "tester_category": "physical",
+        "render_texture": "fe8a02dfe9e390e44ff33d69feef9d3943f76d3901015bbd50f0b67722d288bd"
+    },
+    {
+        "id": "e99ac5f5259571a7",
+        "description": "This cape was given out as a code by completing a challenge on TikTok or Twitch during Twitchcon.",
+        "name": "Builder",
+        "tester_category": "common",
+        "render_texture": "2c579968c64c1719740fd8c2a451461879b238002574fce48f7d1a7c36a1c7d4"
+    },
+    {
+        "id": "fd7c1a3d5fa7a9f1",
+        "description": "This cape was given out as a code by completing a challenge at Twitchcon.",
+        "name": "Crafter",
+        "tester_category": "physical",
+        "render_texture": "479eacefa3cdd7aca94207f36c0dd449653ddf259daf40544a5866baf05eee22"
     }
 ]
