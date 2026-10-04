@@ -320,5 +320,26 @@
         "name": "Crafter",
         "tester_category": "physical",
         "render_texture": "479eacefa3cdd7aca94207f36c0dd449653ddf259daf40544a5866baf05eee22"
+    },
+    {
+        "id": "fd7c1a3d5fa7a9f1",
+        "description": "This cape was given out as a code by completing a challenge on TikTok & Twitch streams as a promotion for Minecraft Dungeons II .",
+        "name": "Aurora",
+        "tester_category": "virtual",
+        "render_texture": "7c418dfbd37412a55e9f1425c9807a591ad10cf71b1edb576a587be9114c277f"
+    },
+    {
+        "id": "0ac9c5df08969fc1",
+        "description": "This cape was given out to players who logged onto both Minecraft Dungeons and Minecraft Dungeons II through September 29 to December 31, 2026",
+        "name": "Hero",
+        "tester_category": "virtual",
+        "render_texture": "bb384a1079b9a6f2811520c7991b6e8150d02e5a96457e44509e30822f72f38e"
+    },
+        {
+        "id": "d84910543ee2842f",
+        "description": "This cape was given out to players who pre-ordered Minecraft Dungeons II",
+        "name": "Twisted",
+        "tester_category": "virtual",
+        "render_texture": "24aafc451aa2cc34ddc7265211678585c0ef4da4d32edb75ecec1bd8b5408381"
     }
 ]
